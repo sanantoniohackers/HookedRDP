@@ -15,4 +15,6 @@ Update: A client has been made to decrypt the output of the loot
 
 ![thingy](https://github.com/ch3rn0byl/HookedRDP/blob/master/Image/dec.PNG)    
 
-This is a work in progress
+# TO-DO  
+Make a client/server type deal that way I can snag it remotely? That would be nice af
+And more, because this is a work in progress
